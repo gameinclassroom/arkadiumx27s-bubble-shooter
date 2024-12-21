@@ -1,0 +1,22 @@
+{
+    "numMoves": 40,
+    "movesBonus": 15,
+    "moveIncreasePerLevel": 20,
+
+    "numBubblesPerRow": 11,
+
+    "startingNumberOfRows": 9,
+    "rowIncrease": 2,
+    "numLevelsBeforeIncrease": 1,
+
+    "lightningBubbleRadius": 30,
+    "lightningBubbleSpeedLoss": 4000,
+
+    "gridBombBubbleRadius": 2,
+    "cannonBombBubbleRadius": 2,
+    "bombBubbleSpeedLoss": 14880,
+
+    "lastRowAlwaysHasLightningBubble": true,
+
+    "ballTrajectoryCutoffY":  300
+}

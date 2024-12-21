@@ -1,0 +1,33 @@
+{
+   "showArkadiumLogo": true,
+   "forceInternalGameEnd": false,
+   "sendGameEndEvent": false,
+   "uupAvatarsBaseUrl": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/_arena-shared-content_/arkadium-avatars/subscription/",
+   "uupFramesBaseUrl": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/_arena-shared-content_/arkadium-frames/",
+   "fixedIntroLevelFilenames": [
+      "level_1",
+      "level_2",
+      "level_3"
+   ],
+   "randomLevelPatternFilenames": [
+      "_FRA1_LGHT",
+      "_FRL1_CL1",
+      "_FRL1_H4",
+      "_FUN_LONG",
+      "_H4_MIX",
+      "_MIX1",
+      "_STB_CL1",
+      "_STB_H2"
+   ],
+   "gameScreenDelays": {
+      "bonusAnimationAfterViewedAds": 0.5,
+      "bonusMovesForLevelCompleted": 1.5,
+      "closeLevelCompletedWithAdsButton": 6.5,
+      "levelCompletedSubscriptionBonusMoves": 3.0,
+      "gameEndSubscriptionBonusMoves": 1.0,
+      "gameOver": 5.0,
+      "initializeGameEnd": 2.5
+   },
+   "hasBoosts" : false,
+   "hasWalls" : false
+}

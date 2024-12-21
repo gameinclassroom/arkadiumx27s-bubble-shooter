@@ -1,0 +1,83 @@
+{
+    "baseNumberOfRows": 18,
+    "rowMultiplier": 1,
+    "scalePatternsByNumberOfRows": true,
+    "fixedNumberOfRows": false,
+    "applyDifficultyDelta": false,
+
+    "randomColorInsteadOfWorstColorProbability": 0.5,
+
+    "minNumSameColorLinesPerLevel": 10,
+    "maxNumSameColorLinesPerLevel": 10,
+    "minSameColorLineLength": 15,
+    "maxSameColorLineLength": 15,
+
+
+    "minNumSameColorCirclesPerLevel": 0,
+    "maxNumSameColorCirclesPerLevel": 0,
+    "minSameColorCircleLength": 7,
+    "maxSameColorCircleLength": 8,
+
+
+    "minNumLightningBubbles": 1,
+    "maxNumLightningBubbles": 1,
+
+
+    "minNumBombBubbles": 0,
+    "maxNumBombBubbles": 0,
+
+
+    "minNumStoneBubbles": 14,
+    "maxNumStoneBubbles": 14,
+
+    
+    "minNumIceLinesPerLevel": 0,
+    "maxNumIceLinesPerLevel": 0,
+    "minIceLineLength": 10,
+    "maxIceLineLength": 10,
+
+
+    "minNumIceCirclesPerLevel": 0,
+    "maxNumIceCirclesPerLevel": 0,
+    "minIceCircleLength": 4,
+    "maxIceCircleLength": 4,
+
+
+    "minNumHoles": 30,
+    "maxNumHoles": 30,
+    "oneSlotHoleProbability": 0.0,
+    "twoSlotHoleProbability": 0.0,
+    "threeSlotHoleProbability": 1.0,
+    "holeSymmetry": true,
+
+
+    "randomHoleSymmetry": true,
+    "holeSymmetryChance": 0.5,
+
+    "sameColorLineDifficultyDelta": 0,
+    "sameColorLineMinDifficultyDelta": 0,
+    "sameColorLineMaxDifficultyDelta": 0,
+    "sameColorCircleDifficultyDelta": 0,
+    "sameColorCircleMinDifficultyDelta": 0,
+    "sameColorCircleMaxDifficultyDelta": 0,
+    "numLightningBubblesDifficultyDelta": -0.1,
+    "numLightningBubblesMinDifficultyDelta": -2,
+    "numLightningBubblesMaxDifficultyDelta": 0,
+    "numBombBubblesDifficultyDelta": -0.1,
+    "numBombBubblesMinDifficultyDelta": -2,
+    "numBombBubblesMaxDifficultyDelta": 0,
+    "numStoneBubblesDifficultyDelta": 1,
+    "numStoneBubblesMinDifficultyDelta": 0,
+    "numStoneBubblesMaxDifficultyDelta": 10,
+    "iceLineDifficultyDelta": 1,
+    "iceLineMinDifficultyDelta": 0,
+    "iceLineMaxDifficultyDelta": 10,
+    "iceCircleDifficultyDelta": 1,
+    "iceCircleMinDifficultyDelta": 0,
+    "iceCircleMaxDifficultyDelta": 10,
+    "numHolesDifficultyDelta": -1,
+    "numHolesMinDifficultyDelta": 0,
+    "numHolesMaxDifficultyDelta": 10
+
+
+}

@@ -1,0 +1,48 @@
+{
+    "baseNumberOfRows": 20,
+    "scalePatternsByNumberOfRows": true,
+    "rowMultiplier": 1,
+    "fixedNumberOfRows": false,
+    "applyDifficultyDelta": false,
+
+    "minNumSameColorLinesPerLevel": 10,
+    "maxNumSameColorLinesPerLevel": 15,
+    "minSameColorLineLength": 6,
+    "maxSameColorLineLength": 7,
+
+    "randomColorInsteadOfWorstColorProbability": 0.5,
+
+    "minNumSameColorCirclesPerLevel": 5,
+    "maxNumSameColorCirclesPerLevel": 7,
+    "minSameColorCircleLength": 4,
+    "maxSameColorCircleLength": 8,
+
+    "minNumLightningBubbles": 0,
+    "maxNumLightningBubbles": 0,
+
+    "minNumBombBubbles": 0,
+    "maxNumBombBubbles": 0,
+    
+    "minNumStoneBubbles": 0,
+    "maxNumStoneBubbles": 0,
+
+    "minNumIceLinesPerLevel": 0,
+    "maxNumIceLinesPerLevel": 0,
+    "minIceLineLength": 4,
+    "maxIceLineLength": 6,
+
+    "minNumIceCirclesPerLevel": 0,
+    "maxNumIceCirclesPerLevel": 0,
+    "minIceCircleLength": 4,
+    "maxIceCircleLength": 6,
+
+    "minNumHoles": 0,
+    "maxNumHoles": 0,
+    "oneSlotHoleProbability": 0.0,
+    "twoSlotHoleProbability": 0.0,
+    "threeSlotHoleProbability": 1.0,
+    "holeSymmetry": true,
+
+    "randomHoleSymmetry": false,
+    "holeSymmetryChance": 0.5
+}
